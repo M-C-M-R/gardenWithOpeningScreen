@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/K2Jaw/AndroidStudioProjects/GardenofPuzzles/app/src/main/res/drawable/farmer_background.xml" value="0.1615" />
+        <entry key="..\:/Users/K2Jaw/AndroidStudioProjects/GardenofPuzzles/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/K2Jaw/AndroidStudioProjects/GardenofPuzzles/app/src/main/res/layout/options_screen_puzzle.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/K2Jaw/AndroidStudioProjects/GardenofPuzzles/app/src/main/res/layout/puzzle_multiple_choice.xml" value="0.2" />
+        <entry key="..\:/Users/K2Jaw/AndroidStudioProjects/GardenofPuzzles/app/src/main/res/layout/screen_answered.xml" value="0.264" />
+        <entry key="..\:/Users/K2Jaw/AndroidStudioProjects/GardenofPuzzles/app/src/main/res/layout/screen_elab_stats.xml" value="0.25317028985507245" />
+        <entry key="..\:/Users/K2Jaw/AndroidStudioProjects/GardenofPuzzles/app/src/main/res/layout/screen_puzzle_instructions.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/K2Jaw/AndroidStudioProjects/GardenofPuzzles/app/src/main/res/layout/screen_stats.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/K2Jaw/AndroidStudioProjects/GardenofPuzzles/app/src/main/res/mipmap-anydpi-v26/farmer.xml" value="0.124" />
+        <entry key="..\:/Users/K2Jaw/AndroidStudioProjects/GardenofPuzzles/app/src/main/res/mipmap-anydpi-v26/farmer_round.xml" value="0.124" />
+        <entry key="app/src/main/res/layout/activity_brief_description.xml" value="0.1983695652173913" />
+        <entry key="app/src/main/res/layout/activity_fill_cup_puzzle_one.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_game_instruction.xml" value="0.1983695652173913" />
+        <entry key="app/src/main/res/layout/activity_home_page.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main_opening_screen.xml" value="0.1983695652173913" />
+        <entry key="app/src/main/res/layout/activity_win.xml" value="0.13496376811594202" />
+        <entry key="app/src/main/res/layout/activity_win_fill_cup.xml" value="0.13496376811594202" />
+        <entry key="app/src/main/res/layout/activity_win_fill_cup_screen.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/puzzle_multiple_choice.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

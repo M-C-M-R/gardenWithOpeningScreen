@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Garden of Puzzles</string>
+    <string name="win">You Win!</string>
+    <string name="pick">Pick a puzzle to play</string>
+    <string name="threeFivePuz">three and five cup buckets</string>
+    <string name="instructions">try to get two cups of water</string>
+    <string name="empty">empty</string>
+    <string name="fill">fill</string>
+    <string name="back">Back</string>
+    <string name="brief_description">Brief Description</string>
+    <string name="play_button">PLAY</string>
+    <string name="instruction_button">INSTRUCTION</string>
+    <string name="quit_button">QUIT GAME</string>
+
+    <string name="description_paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
+        aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+        mollit anim id est laborum.</string>
+</resources>

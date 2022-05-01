@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/puzType"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="32sp"
+        android:textAlignment="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:paddingHorizontal="64dp"
+        app:layout_constraintVertical_bias=".1"/>
+
+    <TextView
+        android:id="@+id/puzDesc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/puzType"
+        app:layout_constraintBottom_toTopOf="@id/playButton"
+        android:paddingHorizontal="64dp"
+        android:textSize="24sp"
+        app:layout_constraintVertical_bias=".3"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        style="?android:attr/buttonStyleSmall"
+        android:id="@+id/optMenuBackButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias=".9"
+        android:paddingHorizontal="25dp"
+        android:layout_margin="16dp"
+        android:text="Back"
+        android:background="@color/btnColor"
+        />
+    <androidx.appcompat.widget.AppCompatButton
+        style="?android:attr/buttonStyleSmall"
+        android:id="@+id/instructionsButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/optMenuBackButton"
+        android:paddingHorizontal="25dp"
+        android:layout_margin="16dp"
+        android:text="More Instructions"
+        android:background="@color/btnColor"
+        />
+    <androidx.appcompat.widget.AppCompatButton
+        style="?android:attr/buttonStyleSmall"
+        android:id="@+id/playButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/instructionsButton"
+        android:paddingHorizontal="25dp"
+        android:layout_margin="16dp"
+        android:text="Do Puzzle"
+        android:background="@color/btnColor"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
